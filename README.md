@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krgira
+- 👀 I’m interested in developing online memo
+- 🌱 I’m currently learning html, jsp, css
+- 💞️ I’m looking to collaborate on jsp! :)
+- 📫 How to reach me "kgr9911@gmail.com"
